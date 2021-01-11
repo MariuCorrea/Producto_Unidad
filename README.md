@@ -21,7 +21,10 @@ Objetivos Específicos
 - Determinar cantidades desconocidas de un circuito usando el método de análisis de lazos.
 - Profundizar nuevos métodos para la resolución de ejercicios donde se calcula las cantidades desconocidas de un circuito.
 
-## Marco Teórico
+## Marco Teórico 
+![1](https://user-images.githubusercontent.com/76136049/104145800-6cc54700-5396-11eb-8ba7-0b165aacb5ad.png)
+![2](https://user-images.githubusercontent.com/76136049/104145797-6c2cb080-5396-11eb-9a60-f1daea5e31d9.png)
+![3](https://user-images.githubusercontent.com/76136049/104145799-6cc54700-5396-11eb-8944-7e543357ce90.png)
 
 
 ##  Conclusiones 
