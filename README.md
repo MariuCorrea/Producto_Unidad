@@ -29,6 +29,13 @@ Objetivos Específicos
 
 ##  Conclusiones 
 
+- El dominio de las ecuaciones simultaneas es muy importante en el análisis de circuitos porque nos permiten calcular por ejemplo dos o mas corrientes o voltajes desconocidos, que pueden ser complejos de entender, pero con ayuda de estos métodos estudiados se facilita la resolución, ya que generan ecuaciones de hasta dos y tres incógnitas que pueden ser resueltos por métodos algebraicos, determinantes o calculadoras.
+
+- El método de corriente en ramas es uno de los tantos métodos que existen para el análisis de circuitos, sin embargo, para el uso de este método es importante el dominio de las leyes de kirchhoff para determinar la corriente que circula en cada rama de un circuito, esto logra que se generen ecuaciones que puedan ser resultas de manera más sencilla.
+
+- Las ventajas que presenta el estudio del método de corrientes es que trabaja con corrientes de lazo las cuales tienen unidades matemáticas y no corrientes físicas reales, así se generan ecuaciones que necesitamos para que sea más fácil analizar el circuito. 
+
+- En el método de voltaje en nodos nos facilita la determinación de los voltajes presentes en cada nodo pero siempre y cuando se tenga un conocimiento y dominio previo de las leyes de Kirchhoff ,estos nodos al ser uniones de dos o mas componentes generan incógnitas que pueden ser expresadas en forma de ecuaciones y resueltas por los métodos de resolución de de ecuaciones antes mencionados.
 
 ## Anexos 
 
